@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.ideogram.startefrontend",
       "sha256_cert_fingerprints": [
-        "42:2D:8A:7D:C9:B5:24:A9:49:24:21:48:2F:24:10:3B:5F:C1:EB:41:B5:A7:0A:A2:F2:F4:56:2C:E9:E0:73:11"
+        "42:2D:8A:7D:C9:B5:24:A9:49:24:21:48:2F:24:10:3B:5F:C1:EB:41:B5:A7:0A:A2:F2:F4:56:2C:E9:E0:73:11",
+        "41:D9:FA:46:B7:22:76:88:C3:98:E4:E8:40:65:D4:ED:29:86:A3:B2:B0:CD:2C:71:29:31:CA:E2:D3:3E:C5:8C"
       ]
     }
   }
