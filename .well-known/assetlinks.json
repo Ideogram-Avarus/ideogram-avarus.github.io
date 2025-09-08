@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.ideogram.tadepe",
       "sha256_cert_fingerprints": [
-        "B8:3B:7F:E3:F1:BD:05:E0:80:A5:D3:4D:44:4D:54:77:9F:2D:22:58:EA:A4:94:D5:1A:EE:10:57:39:78:CC:22"
+        "B8:3B:7F:E3:F1:BD:05:E0:80:A5:D3:4D:44:4D:54:77:9F:2D:22:58:EA:A4:94:D5:1A:EE:10:57:39:78:CC:22",
+        "2D:EB:F5:6A:FF:88:2B:BB:AB:AC:1E:2E:38:19:CA:CF:6F:8C:21:B2:06:87:2E:9D:CF:55:0B:3D:3C:FD:5A:1A"
       ]
     }
   }
