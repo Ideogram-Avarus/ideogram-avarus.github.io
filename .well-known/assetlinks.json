@@ -9,5 +9,15 @@
         "2D:EB:F5:6A:FF:88:2B:BB:AB:AC:1E:2E:38:19:CA:CF:6F:8C:21:B2:06:87:2E:9D:CF:55:0B:3D:3C:FD:5A:1A"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ideogram.tadepreview",
+      "sha256_cert_fingerprints": [
+        "81:CF:99:9D:47:5F:8A:8B:00:91:E4:BF:C7:77:E6:A1:C7:5A:6E:83:72:8E:1B:A3:12:9A:72:29:68:D6:15:D0"
+      ]
+    }
   }
 ]
