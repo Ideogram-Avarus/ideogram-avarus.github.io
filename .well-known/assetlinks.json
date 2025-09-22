@@ -19,5 +19,15 @@
         "81:CF:99:9D:47:5F:8A:8B:00:91:E4:BF:C7:77:E6:A1:C7:5A:6E:83:72:8E:1B:A3:12:9A:72:29:68:D6:15:D0"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ideogram.tadedev",
+      "sha256_cert_fingerprints": [
+        "06:15:85:00:D6:55:AA:B0:75:CE:88:8D:A3:65:0B:DE:B1:81:FC:1A:42:6F:E3:1F:83:3B:E6:9E:FA:5F:E5:FE"
+      ]
+    }
   }
 ]
